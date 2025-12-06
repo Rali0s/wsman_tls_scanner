@@ -226,6 +226,9 @@ Mitigation recommendations:
 * 📌 **Official Insomnia / Website**
   [ https://insomnia.rest ]
 
+* 📌 **Hashcat**
+  [ https://hashcat.net/wiki/doku.php?id=hashcat ]
+  
 * 📌 NIST SP 800-52 rev2 (TLS Guidance)
 
 * 📌 OWASP Transport Layer Protection Cheat Sheet
