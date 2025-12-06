@@ -223,6 +223,9 @@ Mitigation recommendations:
 * 📌 **Official Sweet32 Paper / Website**
   [https://sweet32.info](https://sweet32.info)
 
+* 📌 **Official Insomnia / Website**
+  [ https://insomnia.rest ]
+
 * 📌 NIST SP 800-52 rev2 (TLS Guidance)
 
 * 📌 OWASP Transport Layer Protection Cheat Sheet
