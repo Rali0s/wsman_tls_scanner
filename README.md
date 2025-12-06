@@ -1,4 +1,4 @@
-# ✅ **README.md (Ready to Paste)**
+# ✅ **README.md**
 
 ```markdown
 # Sweet32 Proof-of-Concept Chain  
